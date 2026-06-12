@@ -2,3 +2,9 @@ out
 .cache
 compile_commands.json
 .clang-format
+cmake_install.cmake
+expr
+expr.o
+Makefile
+CMakeFiles
+CMakeCache.txt
